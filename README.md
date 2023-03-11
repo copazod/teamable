@@ -11,4 +11,3 @@ An application for managing employee user profiles.
     npm pack
 
 Application runs in port 3000
-testtt\
